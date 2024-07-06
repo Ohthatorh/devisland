@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "links": [
+    {
+      "id": "123",
+      "name": "Распродажа",
+      "sort": 1,
+      "link": "catalog/rasprodazha",
+      "image": "https://w7.pngwing.com/pngs/423/371/png-transparent-discounts-and-allowances-computer-icons-coupon-sale-miscellaneous-text-logo.png"
+    },
+    {
+      "id": "456",
+      "name": "Акции",
+      "sort": 3,
+      "link": "catalog/sales",
+      "image": "https://w7.pngwing.com/pngs/423/371/png-transparent-discounts-and-allowances-computer-icons-coupon-sale-miscellaneous-text-logo.png"
+    },
+    {
+      "id": "789",
+      "name": "Топ",
+      "sort": 2,
+      "link": "catalog/top",
+      "image": "https://w7.pngwing.com/pngs/423/371/png-transparent-discounts-and-allowances-computer-icons-coupon-sale-miscellaneous-text-logo.png"
+    },
+    {
+      "id": "101",
+      "name": "Ликвидация",
+      "sort": 4,
+      "link": "catalog/liquidation",
+      "image": "https://w7.pngwing.com/pngs/423/371/png-transparent-discounts-and-allowances-computer-icons-coupon-sale-miscellaneous-text-logo.png"
+    },
+    {
+      "id": "213",
+      "name": "Сейчас в каталоге",
+      "sort": 5,
+      "link": "catalog/now",
+      "image": "https://w7.pngwing.com/pngs/423/371/png-transparent-discounts-and-allowances-computer-icons-coupon-sale-miscellaneous-text-logo.png"
+    }
+  ]
+}

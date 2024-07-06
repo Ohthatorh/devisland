@@ -1,0 +1,113 @@
+{
+  "success": true,
+  "filters": [
+    {
+      "name": "Цена",
+      "type": "range",
+      "values": {
+        "min": 1330,
+        "max": 135000
+      }
+    },
+    {
+      "name": "Бренд",
+      "type": "multiple",
+      "values": [
+        {
+          "label": "Apple",
+          "value": "Apple",
+          "showOnDisplay": true
+        },
+        {
+          "label": "Samsung",
+          "value": "Samsung",
+          "showOnDisplay": true
+        },
+        {
+          "label": "Google",
+          "value": "Google",
+          "showOnDisplay": false
+        },
+        {
+          "label": "OnePlus",
+          "value": "OnePlus",
+          "showOnDisplay": false
+        },
+        {
+          "label": "Huawei",
+          "value": "Huawei",
+          "showOnDisplay": false
+        },
+        {
+          "label": "Xiaomi",
+          "value": "Xiaomi",
+          "showOnDisplay": true
+        },
+        {
+          "label": "Sony",
+          "value": "Sony",
+          "showOnDisplay": true
+        },
+        {
+          "label": "Oppo",
+          "value": "Oppo",
+          "showOnDisplay": false
+        }
+      ],
+      "countProducts": 10,
+      "canSelect": true,
+      "showMore": true
+    },
+    {
+      "name": "Рейтинг",
+      "type": "multiple",
+      "values": [
+        {
+          "label": "4+",
+          "value": {
+            "min": 4,
+            "max": null,
+            "showOnDisplay": true
+          }
+        },
+        {
+          "label": "3.5+",
+          "value": {
+            "min": 3.5,
+            "max": null,
+            "showOnDisplay": true
+          }
+        },
+        {
+          "label": "3+",
+          "value": {
+            "min": 3,
+            "max": null,
+            "showOnDisplay": true
+          }
+        }
+      ],
+      "countProducts": 10,
+      "canSelect": true,
+      "showMore": false
+    },
+    {
+      "name": "В наличии",
+      "type": "single",
+      "values": [
+        {
+          "label": "В наличии",
+          "value": true,
+          "showOnDisplay": true
+        },
+        {
+          "label": "Нет в наличии",
+          "value": false,
+          "showOnDisplay": true
+        }
+      ],
+      "countProducts": 10,
+      "canSelect": true
+    }
+  ]
+}

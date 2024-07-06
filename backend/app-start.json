@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "bottomTabs": {
+    "isVisibleLabels": true,
+    "singleVisibleLabel": true,
+    "activeColorIcon": "#000000",
+    "inactiveColorIcon": "#9D9D9D",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#9D9D9D",
+    "borderWidth": 0.3,
+    "iconSize": 24,
+    "activeLabelColor": "#000000",
+    "inactiveLabelColor": "#9D9D9D",
+    "labelFontSize": 12,
+    "routes": [
+      {
+        "sort": 1,
+        "name": "HomeTab",
+        "label": "Главная",
+        "icon": "home"
+      },
+      {
+        "sort": 2,
+        "name": "CatalogTab",
+        "label": "Каталог",
+        "icon": "view-grid"
+      },
+      {
+        "sort": 3,
+        "name": "CartTab",
+        "label": "Корзина",
+        "icon": "cart",
+        "badge": true
+      },
+      {
+        "sort": 4,
+        "name": "FavoritesTab",
+        "label": "Избранное",
+        "icon": "heart"
+      },
+      {
+        "sort": 5,
+        "name": "ProfileTab",
+        "label": "Профиль",
+        "icon": "account"
+      }
+    ]
+  }
+}

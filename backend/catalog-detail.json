@@ -1,0 +1,182 @@
+{
+  "success": true,
+  "page": 1,
+  "perPage": 10,
+  "total": 200,
+  "totalPages": 20,
+  "info": {
+    "code": "smartphones",
+    "name": "Смартфоны",
+    "description": "Описание смартфонов"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "productCode": "IP12",
+      "images": ["https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"],
+      "price": 999,
+      "ratingCount": 500,
+      "rating": 4.7,
+      "sort": 1
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "productCode": "SGS21",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 799,
+      "priceDiscount": 699,
+      "pricePercent": 13,
+      "ratingCount": 300,
+      "rating": 4.4,
+      "sort": 2
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 5",
+      "productCode": "GP5",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 699,
+      "priceDiscount": 599,
+      "pricePercent": 14,
+      "ratingCount": 200,
+      "rating": 4.5,
+      "sort": 3
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 9 Pro",
+      "productCode": "OP9P",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 899,
+      "priceDiscount": 799,
+      "pricePercent": 11,
+      "ratingCount": 400,
+      "rating": 4.8,
+      "sort": 4
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Mi 11 Ultra",
+      "productCode": "XM11U",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 699,
+      "priceDiscount": 599,
+      "pricePercent": 14,
+      "ratingCount": 150,
+      "rating": 4.3,
+      "sort": 6
+    },
+    {
+      "id": 7,
+      "name": "LG G Stylo 2",
+      "productCode": "LGS2",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 399,
+      "priceDiscount": 349,
+      "pricePercent": 13,
+      "ratingCount": 100,
+      "rating": 4.2,
+      "sort": 7
+    },
+    {
+      "id": 8,
+      "name": "Motorola Edge Plus",
+      "productCode": "MEP",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 799,
+      "priceDiscount": 699,
+      "pricePercent": 13,
+      "ratingCount": 200,
+      "rating": 4.1,
+      "sort": 8
+    },
+    {
+      "id": 9,
+      "name": "Sony Xperia 1 III",
+      "productCode": "SX1III",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 699,
+      "priceDiscount": 599,
+      "pricePercent": 14,
+      "ratingCount": 250,
+      "rating": 4.6,
+      "sort": 9
+    },
+    {
+      "id": 10,
+      "name": "Huawei P40 Pro",
+      "productCode": "HWP40P",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png",
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG36.png"
+      ],
+      "price": 899,
+      "priceDiscount": 799,
+      "pricePercent": 11,
+      "ratingCount": 220,
+      "rating": 4.4,
+      "sort": 10
+    }
+  ],
+  "sortList": [
+    {
+      "sort": 1,
+      "name": "Популярные",
+      "code": "popular",
+      "choosed": true
+    },
+    {
+      "sort": 2,
+      "name": "Дешевле",
+      "code": "priceDesc",
+      "choosed": false
+    },
+    {
+      "sort": 3,
+      "name": "Дороже",
+      "code": "priceAsc",
+      "choosed": false
+    },
+    {
+      "sort": 4,
+      "name": "Новинки",
+      "code": "new",
+      "choosed": false
+    },
+    {
+      "sort": 5,
+      "name": "Высокий рейтинг",
+      "code": "highRating",
+      "choosed": false
+    },
+    {
+      "sort": 6,
+      "name": "Много отзывов",
+      "code": "manyReviews",
+      "choosed": false
+    }
+  ]
+}
